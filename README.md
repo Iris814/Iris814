@@ -1,6 +1,8 @@
 # Hi, I'm Iris Lynn
 
-Senior Manager, Data Science @ American Express — Global Commercial Services, Offer Personalization. I build customer-analytics and ROI systems for 20M+ cardmembers, and I'm increasingly working in agentic AI on the side.
+### Data Scientist — Product & Customer Analytics
+
+Senior Analytics Manager @ American Express — Global Commercial Services, Offer Personalization. I build customer-analytics and ROI systems for 20M+ cardmembers, and I'm increasingly working in agentic AI on the side.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -29,4 +31,4 @@ Python · SQL · Claude Agent SDK · MCP · RAG · LLM Evals · pandas · PySpar
 ## Reach me
 
 - Email: irislynn0814@gmail.com
-- LinkedIn: _add link_
+- LinkedIn: [linkedin.com/in/iris-lynn](https://linkedin.com/in/iris-lynn)
