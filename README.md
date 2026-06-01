@@ -2,7 +2,7 @@
 
 ### Data Scientist — Product & Customer Analytics
 
-Senior Analytics Manager @ American Express — Global Commercial Services, Offer Personalization. I build customer-analytics and ROI systems for 20M+ cardmembers, and I'm increasingly working in agentic AI on the side.
+Senior Data Scientist Manager @ American Express — Global Commercial Services, Offer Personalization. I build customer-analytics and ROI systems for 20M+ cardmembers, and I'm increasingly working in agentic AI on the side.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
