@@ -2,7 +2,7 @@
 
 ### Data Scientist — Product & Customer Analytics
 
-Senior Data Scientist Manager @ American Express — Global Commercial Services, Offer Personalization. I build customer-analytics and ROI systems for 20M+ cardmembers, and I'm increasingly working in agentic AI on the side.
+Senior Manager, Data Science @ American Express — Global Commercial Services, Offer Personalization. I build customer-analytics and ROI systems for 20M+ cardmembers, and I'm increasingly working in agentic AI on the side.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
@@ -15,6 +15,7 @@ Senior Data Scientist Manager @ American Express — Global Commercial Services,
 
 ## What I'm building right now
 
+- **[learning-hub](https://github.com/Iris814/learning-hub)** · **[▶ live demo](https://iris814.github.io/learning-hub/)** — an interactive, in-browser study hub: run real Python (Pyodide) and SQL (DuckDB-WASM) live, build a 12-model classic-ML zoo, and drill 115 real fintech & tech interview questions.
 - **[multi-agent-orchestrator](https://github.com/Iris814/multi-agent-orchestrator)** — orchestrator-worker system on the Claude Agent SDK (Planner → Retriever → DataAgent → Critic → Judge) with RAG, MCP tools, human-in-the-loop, and eval-driven development.
 - **[fed-sentiment-tracker](https://github.com/Iris814/fed-sentiment-tracker)** — multi-layer NLP pipeline that monitors Federal Reserve and inflation sentiment across financial news, ending in a Claude agentic investigation of anomalies.
 
