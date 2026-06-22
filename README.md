@@ -2,7 +2,7 @@
 
 ### Data Scientist · Applied AI & Customer Analytics
 
-Senior Manager, Data Science at American Express (Global Commercial Services — Offer Personalization), building customer-analytics and ROI measurement on a product that serves 20M+ cardmembers. Now focused on agentic AI — multi-agent systems, RAG, and evals.
+Senior Manager, Data Science at American Express (Global Commercial Services ), building customer-analytics and ROI measurement on a product that serves 20M+ cardmembers. Now focused on agentic AI — multi-agent systems, RAG, and evals.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
